@@ -6,27 +6,29 @@ Build and Deploy Airbnb website website using React 18! where you will be able t
 Thanks for checking out this Application.
 
 ## Overview
-![Register-page](./src/assets/registerpage.png)
-![Login-page](./src/assets/loginpage.png)
-![Home-Page](./src/assets/indexpage.png)
-![Form-Page](./src/assets/form.png)
-![Accomindation-Page](./src/assets/myAccomindation.png)
-![Place-Details-Page](./src/assets/placeDetails.png)
+![Register-page](./client/src/assets/registerpage.png)
+![Login-page](./client/src/assets/loginpage.png)
+![Home-Page](./client/src/assets/indexpage.png)
+![Form-Page](./client/src/assets/form.png)
+![Accomindation-Page](./client/src/assets/myAccomindation.png)
+![Place-Details-Page](./client/src/assets/placeDetails.png)
 
 
 
 ### Links
-- Live Site URL => [Live Site](https://lambent-sprite-aecd63.netlify.app/)
+- Live Site URL => Not Deployed yet
 
 ## My process
 
 ### Built with
 
 - React Js
-- Material UI
-- firebase
+- Node js
+- Express
+- mongooDB
 - contextApi
 - react router dom
+- tailwind css
 - JavaScript
 - JSX
 
