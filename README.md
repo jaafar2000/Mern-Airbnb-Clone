@@ -1,6 +1,6 @@
 # Airbnb website using React 18! (MERN stack)
 
-Build and Deploy Airbnb website website using React 18! where you will be able to sign in in and sign out using email and password Authentication, creating places, booking places and discover places.
+Build and Deploy Airbnb website website using React 18! where you will be able to sign in in and sign out using email and password Authentication, create, book  and discover places.
 
 ## Welcome! 
 Thanks for checking out this Application.
